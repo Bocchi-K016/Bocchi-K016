@@ -31,6 +31,6 @@ Feel free to check out my repositories and join me on this exciting journey. Let
 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
 
 <!---
-Bochi-K016/Bochi-K016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bocchi-K016/Bocchi-K016 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
