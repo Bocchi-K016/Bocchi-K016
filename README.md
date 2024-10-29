@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @Bochi-K016
+## 👋 Hi, I’m @Bocchi-K016
 - Welcome to my GitHub profile! I'm a passionate learner and aspiring Data Scientist with a focus on **Data Science (DS)**, **Machine Learning (ML)**, and **Cloud Computing**.
 - My journey in these fields has been exhilarating, and I'm constantly seeking to deepen my knowledge and skill set.
 
